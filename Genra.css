@@ -1,0 +1,47 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(SignUp.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+.genra {
+    width: 750px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: #ffff;
+    padding: 20px;
+    margin: 6% auto 0;
+    text-align: center;
+}
+
+.genra h1 {
+        color: #1c8adb;
+        margin-bottom: 30px;
+        text-align: center;
+ }
+
+.genra h2 {
+        color: #1c8adb;
+        margin-bottom: 30px;
+        text-align: center;
+ }
+
+.button {
+    color: #fff;
+    width: 25%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px 0;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: #1c8adb;
+}
+
+img {
+    width: 100px;
+    margin-top: -20px;
+}
